@@ -13,7 +13,7 @@ __END__
 
 =head1 NAME
 
-cPanel::RESTivus - [One line description of module's purpose here]
+cPanel::RESTivus - REST(ish) API façade to the various and sundry cPanel APIs
 
 
 =head1 VERSION
@@ -32,10 +32,13 @@ This document describes cPanel::RESTivus version 0.01
   
 =head1 DESCRIPTION
 
+Initial release. Just to reserve the namespace, no actual functionality.
+
+See L<https://github.com/drmuey/p5-cPanel-RESTivus> for upcoming details, roadmap, etc.
+
 =for author to fill in:
     Write a full description of the module and its features here.
     Use subsections (=head2, =head3) as appropriate.
-
 
 =head1 INTERFACE 
 
