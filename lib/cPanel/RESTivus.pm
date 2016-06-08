@@ -9,6 +9,8 @@ $cPanel::RESTivus::VERSION = '0.01';
 
 __END__
 
+=encoding utf-8
+
 =head1 NAME
 
 cPanel::RESTivus - [One line description of module's purpose here]
