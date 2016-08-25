@@ -1,11 +1,14 @@
 package cPanel::RESTivus;
 
-use strict;
-use warnings;
+use Dancer2;
 
-$cPanel::RESTivus::VERSION = '0.01';
+our $VERSION = '0.01';
 
-1;
+get '/' => sub {
+    template 'index';
+};
+
+true;
 
 __END__
 
